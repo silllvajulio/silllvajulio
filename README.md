@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Julio Silva, estudante de programação e tecnologia.
 
-<p> Migrando para a área da tecnologia.
-
 ## Tecnologias:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
