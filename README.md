@@ -1,4 +1,4 @@
-### Olá! Eu sou o Julio Silva, estudante de programação e tecnologia.
+### Olá! Eu sou o Julio Silva, desenvolvedor front-end react.
 
 ## Tecnologias:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
